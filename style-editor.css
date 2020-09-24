@@ -1,0 +1,89 @@
+/* Width of "wide" blocks */
+body.gutenberg-editor-page .editor-block-list__block[data-align="wide"] {
+    max-width: 1140px;
+}
+
+/* Width of "full-width" blocks */
+body.gutenberg-editor-page .editor-block-list__block[data-align="full"] {
+    max-width: none;
+}
+ 
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: 726px;
+}
+ 
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: none;
+}
+
+.wp-block .wp-block[data-align="full"],
+.block-editor-block-list__layout.is-root-container>.wp-block[data-align=full] {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+*[data-align="right"] .wp-block-edit,
+*[data-align="left"] .wp-block-edit {
+  max-width: 50%;
+}
+
+*[data-align="left"] .wp-block-edit,
+.wp-block[data-align=left] {
+    max-width: calc(100vw / 4 / 2 + 20%);
+    margin-left: 4rem;
+}
+
+*[data-align="right"] .wp-block-edit,
+.wp-block[data-align=right] {
+    max-width: calc(100vw / 4 / 2 + 20%);
+    margin-right: 4rem;
+}
+
+/* Typography */
+body { 
+	font-family: "Poppins", sans-serif; color: #212529;
+	line-height: 1.5;
+}
+
+/* Headings */
+.editor-post-title .editor-post-title__input {
+	font-family: "Poppins", sans-serif;
+	line-height: 1.2;
+}
+
+.editor-post-title__input, h1, h2, h3, h4, h5, h6 {
+	color: #212529;
+	font-weight: 700;
+}
+
+.has-small-font-size {
+    font-size: 12px;
+}
+
+.has-normal-font-size {
+    font-size: 14px;
+}
+
+.has-medium-font-size {
+    font-size: 19px;
+}
+
+.has-display-font-size {
+    font-size: 40px;
+}
+
+/* Colors */
+.has-main-color {
+	color: #212529;
+}
+.has-info-color {
+	color: #2b31f9;
+}
+.has-info-background-color {
+	background-color: #2b31f9;
+}
+.has-red-accent-background-color {
+	background-color: #ff6f61;
+}

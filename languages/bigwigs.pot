@@ -1,0 +1,822 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: bigwigs\n"
+"POT-Creation-Date: 2020-08-14 10:41+0800\n"
+"PO-Revision-Date: 2020-08-14 10:41+0800\n"
+"Last-Translator: dinevthemes <post@dinevthemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../archive-portfolio.php:34
+msgid "Category filter:"
+msgstr ""
+
+#: ../archive-portfolio.php:37
+msgid "All"
+msgstr ""
+
+#: ../comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:54
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: ../footer.php:54
+msgid "https://wordpress.org"
+msgstr ""
+
+#: ../footer.php:59
+#, php-format
+msgid "Theme %1$s from %2$s"
+msgstr ""
+
+#: ../footer.php:59
+msgid "http://www.dinevthemes.com/wordpress-themes/bigwigs-pro/"
+msgstr ""
+
+#: ../functions.php:59 ../inc/starter-content.php:69
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Footer Links"
+msgstr ""
+
+#: ../functions.php:61
+msgid "Social Links"
+msgstr ""
+
+#: ../functions.php:142
+msgid "Small"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Normal"
+msgstr ""
+
+#: ../functions.php:152
+msgid "Medium"
+msgstr ""
+
+#: ../functions.php:157
+msgid "Display"
+msgstr ""
+
+#: ../functions.php:209
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:211
+msgid "Add widgets here to appear in sidebar."
+msgstr ""
+
+#: ../functions.php:219
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../functions.php:221
+msgid "Add widgets here to appear in footer column 1."
+msgstr ""
+
+#: ../functions.php:229
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../functions.php:231
+msgid "Add widgets here to appear in footer column 2."
+msgstr ""
+
+#: ../functions.php:239
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Add widgets here to appear in footer column 3."
+msgstr ""
+
+#: ../header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: ../search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:12 ../searchform.php:15 ../searchform.php:19
+#: ../template-parts/navigation/modal-search-form.php:16
+#: ../template-parts/navigation/modal-search-form.php:21
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:17 ../template-parts/navigation/modal-search-form.php:19
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../single.php:29
+msgid "Previous:"
+msgstr ""
+
+#: ../single.php:30
+msgid "Next:"
+msgstr ""
+
+#: ../inc/icon-functions.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../inc/icon-functions.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../inc/navwalker.php:364
+msgid "Add a menu"
+msgstr ""
+
+#: ../inc/starter-content.php:24 ../inc/starter-content.php:57
+msgid "BigWigs"
+msgstr ""
+
+#: ../inc/starter-content.php:32
+msgid "Front"
+msgstr ""
+
+#: ../inc/starter-content.php:37
+msgid "About"
+msgstr ""
+
+#: ../inc/starter-content.php:40
+msgid ""
+"Bigwigs is a generic theme which is suitable for pretty much any type of "
+"website, including business sites, portfolios, blogs and e-stores. "
+"WooCommerce Compatible. Portfolio Support."
+msgstr ""
+
+#: ../inc/starter-content.php:44
+msgid "Blog Page"
+msgstr ""
+
+#: ../inc/starter-content.php:58
+msgid ""
+"Your homepage displays a static page. Customizer > Homepage Sections > Head "
+"Banner"
+msgstr ""
+
+#: ../inc/starter-content.php:59
+msgid "Button"
+msgstr ""
+
+#: ../inc/template-functions.php:48 ../template-parts/content-page.php:42
+#: ../template-parts/front-page/content.php:41
+#: ../template-parts/post/single.php:51
+msgid "Pages:"
+msgstr ""
+
+#: ../inc/template-functions.php:382
+msgid "Archives"
+msgstr ""
+
+#: ../inc/template-tags.php:68
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:113 ../inc/template-tags.php:149
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:146
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:166
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:183 ../template-parts/front-page/content.php:54
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:208
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:208
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:223
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:230
+msgid ""
+"<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> "
+"Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:235
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/wc-compatibility.php:64
+msgid "Previous"
+msgstr ""
+
+#: ../inc/wc-compatibility.php:65
+msgid "Next"
+msgstr ""
+
+#: ../inc/wc-compatibility.php:195
+msgid "Sale"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:48
+msgid "Hide Site Title"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:49
+msgid "Show or hide the site title on the menu bar."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:65
+msgid "Site Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:71
+msgid "Body Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:77
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:78
+msgid "It is recommended to use only light colors."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:85
+msgid "Post/Page Titles Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:91
+msgid "Entry Card Background"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:97
+msgid "Entry Card: Footer Background"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:103
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:109
+msgid "Text Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:115
+msgid "Text Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:121
+msgid "Body Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:127
+msgid "Primary Button Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:133
+msgid "Primary Button: Hover Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:139
+msgid "Primary Button: Active Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:146
+msgid "Pre-Footer Background"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:152
+msgid "Pre-Footer Menu Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:159
+msgid "Footer Background"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:165
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:202
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:26
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:223
+msgid "Sidebar Displays"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:228 ../inc/customizer/customizer.php:934
+msgid "Right sidebar"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:229 ../inc/customizer/customizer.php:935
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:230 ../inc/customizer/customizer.php:936
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:252
+msgid "Page Header"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:253
+msgid ""
+"This applies when displaying the title of a single post or page. Note "
+"please: If you choose a Cover style then the size of post thumbnails should "
+"be at least 1200x860."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:257
+msgid "Separately"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:258
+msgid "Cover"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:273
+msgid "Navigation Bar"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:291
+msgid "Menu Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:297
+msgid "Menu Color: Hover"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:340
+msgid "Alignment"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:345
+msgid "Right-aligned"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:346
+msgid "Left-aligned"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:364
+msgid "Search button"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:365
+msgid "Show the search button on the menu bar."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:380
+msgid "Cart button"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:381
+msgid "Show the cart button on the menu bar."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:394
+msgid "Posts Page"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:410 ../inc/customizer/customizer.php:602
+msgid "Hide Date"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:425 ../inc/customizer/customizer.php:617
+msgid "Hide Author"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:445
+msgid "Pages navigation type"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:450 ../inc/customizer/customizer.php:543
+#: ../inc/customizer/customizer.php:916 ../inc/customizer/customizer.php:953
+#: ../inc/customizer/customizer.php:971 ../inc/customizer/customizer.php:990
+msgid "Standard"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:451 ../inc/customizer/customizer.php:972
+msgid "Numeric"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:471
+msgid "Link to full post"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:472
+msgid ""
+"Enter the button label which is a link to the full post. You can leave this "
+"blank if you want to hide the button."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:484
+msgid "&mdash; Select Post &mdash;"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:514
+msgid "Featured Post"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:539
+msgid "Layout mode"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:543 ../inc/customizer/customizer.php:989
+msgid "Grid"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:565 ../inc/customizer/customizer.php:861
+msgid "Number of Columns"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:569 ../inc/customizer/customizer.php:865
+#: ../inc/customizer/customizer.php:1007 ../inc/customizer/customizer.php:1025
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:570 ../inc/customizer/customizer.php:866
+#: ../inc/customizer/customizer.php:1008 ../inc/customizer/customizer.php:1026
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:585
+msgid "Single Post"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:632
+msgid "Hide categories"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:647
+msgid "Hide tags"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:660
+msgid "Homepage Sections"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:661
+msgid ""
+"Get the Pro version to add 5 more sortable and customizable sections like "
+"this: widget area, full-width parallax section, recent blog posts, and more."
+msgstr ""
+
+#: ../inc/customizer/customizer.php:675
+msgid "Head Banner"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:695
+msgid "Heading"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:717
+msgid "Sub-Heading"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:739
+msgid "Button Label"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:760
+msgid "Button Link"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:783
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:804
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:820
+msgid "Head Banner Height"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:838
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../inc/customizer/customizer.php:917 ../inc/customizer/customizer.php:954
+msgid "Alternative"
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:76
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:29
+msgid "Bigwigs Pro"
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:77
+msgid "Get more features and one on one support by purchasing the Pro version."
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:78
+#: ../inc/welcome-screen/partials/theme-dashboard-page.php:26
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:36
+msgid "Get Pro"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:72
+msgid "Underboot Dashboard"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:72
+msgid "Theme Info"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:101
+#, php-format
+msgid ""
+"Welcome and thanks for choosing %1$s! To help you get starter with the "
+"theme, please visit our <a href=\"%2$s\">welcome page</a>."
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:128
+msgid "Getting Started"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:132
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:14
+msgid "Free vs Pro version"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:136
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:31
+msgid "Support"
+msgstr ""
+
+#: ../inc/welcome-screen/welcome-screen.php:140
+msgid "Contribute"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:18
+msgid "Feature"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:18
+msgid "Free"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:18
+msgid "Pro"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:19
+msgid "Inversion of the logo image"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:20
+msgid "Blog layouts"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:21
+msgid "Additional Page Templates"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:22
+msgid "Custom Fonts and Typography Settings"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:23
+msgid "Custom e-Store cover (woocommerce)"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:24
+msgid "Hide credits"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:25
+msgid "Custom portfolio header"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:26
+msgid "Portfolio layouts"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:27
+msgid "Colored Category"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:28
+msgid "Sortable Homepage sections"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:29
+msgid "Homepage sections"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-compare.php:30
+msgid "Image Post support"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-contribute.php:3
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:7
+msgid "review"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-contribute.php:7
+msgid "Rate please"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-contribute.php:11
+#, php-format
+msgid "I will appreciate if you find a few secs to leave a few stars %s."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:17
+msgid "Front Page Setup"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:19
+msgid ""
+"Create a new by going to Pages > Add New. Give your page a name (Title "
+"field). In the same way create a blank page for the Blog Page."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:20
+msgid ""
+"Now you can go to Appearance > Customize > Homepage Settings and choose your "
+"new created Page as your Front Page."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:21
+msgid ""
+"When you have set a static page for your homepage displays, you can make "
+"some settings for the front page, go to Customizer > Front Page Sections."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:28
+msgid ""
+"You can use of the Customizer to provide you with the theme options. Press "
+"the button below to open the Customizer and start making changes."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:30
+msgid "Customize Theme"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:34
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:37
+msgid "Advanced Bootstrap Blocks"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:38
+msgid "Atomic Blocks"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:40
+msgid "WooCommerce"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-getting-started.php:43
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-page.php:16
+msgid "Welcome to BigWigs Theme!"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-page.php:17
+msgid "Version:"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-page.php:21
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:31
+msgid ""
+"You can get more features plus one-on-one support by purchased the Pro "
+"version of this theme."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:17
+msgid "Demo Site"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:19
+msgid "You can look at this theme on the live demo."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-sidebar.php:24
+msgid "View Live Demo"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:4
+msgid "forum"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:5
+msgid "Bigwigs forum"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:6
+msgid "documentation"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:11
+msgid "Looking for help?"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:13
+msgid "Is here collected some resources that you may find helpful:"
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:19
+#, php-format
+msgid ""
+"If you have a general question related to WordPress, please post it on "
+"WordPress.org %s."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:26
+#, php-format
+msgid "If you have a theme specific question, please post it on %s."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:33
+#, php-format
+msgid "Before panic, please visit our %s pages."
+msgstr ""
+
+#: ../inc/welcome-screen/partials/theme-dashboard-support.php:41
+#, php-format
+msgid "If this theme is useful to you then leave your %s, please. Thank you!"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:54
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../template-parts/pre-footer.php:17
+msgid "Footer Menu"
+msgstr ""
+
+#: ../template-parts/pre-footer.php:32
+msgid "Social Links Menu"
+msgstr ""
